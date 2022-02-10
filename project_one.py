@@ -2,8 +2,6 @@
 import requests
 
 
-
-
 def greet(who):
     """greeting"""
     greeting = f"Hello, {who}"
